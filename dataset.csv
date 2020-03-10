@@ -1,0 +1,15 @@
+﻿outlook,temperature,humidity,windy,decision
+sunny,hot,high,weak,N
+sunny,hot,high,strong,N
+overcast,hot,high,weak,P
+rain,mild,high,weak,P
+rain,cool,normal,weak,P
+rain,cool,normal,strong,N
+overcast,cool,normal,strong,P
+sunny,mild,high,weak,N
+sunny,cool,normal,weak,P
+rain,mild,normal,weak,P
+sunny,mild,normal,strong,P
+overcast,mild,high,strong,P
+overcast,hot,normal,weak,P
+rain,mild,high,strong,N
